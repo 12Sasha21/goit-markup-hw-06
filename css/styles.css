@@ -818,13 +818,7 @@ body {
   background-origin: border-box;
   background-repeat: no-repeat;
   background-position: center;
-  transition: background-image 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-/* 
-.checkbox-label:focus .checkbox-icon,
-.checkbox-label:hover .checkbox-icon {
-  border: 2px solid var(--accent-color);
-} */
 
 .checkbox-link {
   margin-left: 5px;
